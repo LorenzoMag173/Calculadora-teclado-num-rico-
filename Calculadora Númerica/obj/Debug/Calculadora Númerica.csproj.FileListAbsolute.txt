@@ -1,0 +1,11 @@
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\bin\Debug\Calculadora Númerica.exe.config
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\bin\Debug\Calculadora Númerica.exe
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\bin\Debug\Calculadora Númerica.pdb
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\obj\Debug\Calculadora Númerica.csproj.AssemblyReference.cache
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\obj\Debug\Calculadora Númerica.csproj.SuggestedBindingRedirects.cache
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\obj\Debug\Calculadora_Númerica.Properties.Resources.resources
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\obj\Debug\Calculadora Númerica.csproj.GenerateResource.cache
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\obj\Debug\Calculadora Númerica.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\obj\Debug\Calculadora Númerica.exe
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\obj\Debug\Calculadora Númerica.pdb
+C:\Users\lorenzo.lmaranho\source\repos\Calculadora Númerica\Calculadora Númerica\obj\Debug\Calculadora_Númerica.Calculadora.resources
